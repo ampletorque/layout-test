@@ -1,0 +1,50 @@
+* {
+   margin: 0px;
+}
+
+body {
+	background-color: #585858;
+    height: 100%;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.container1 {
+	background-color: #C0C0C0;
+    height: 20%;
+    padding: 1%;
+}
+.container2 {
+	background-color: #FFCCCC;
+    height: 10%;
+    padding: 1%;
+}
+.container3 {
+	background-color: #66CC66;
+	width: 68%;
+	height: 700px;
+    float: left;
+    padding: 1%;
+
+}
+.container4 {
+	background-color: #9966CC;
+    width: 28%;
+    height: 700px;
+    border: 0px;
+    float: right;
+    padding: 1%;
+}
+
+p {
+	padding: 1%;
+}
+
+h2 {
+	padding: 1%;
+}
+
+ul {
+    padding-top: 5%;
+}
